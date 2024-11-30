@@ -1,3 +1,3 @@
 ### Active Directory Ldap Authorization Nedir? LDAP ile Web Uygulamasında Yetkilendirme Nasıl Yapılır?
 
-[Projeyi indir](https://github.com/omermertkaya/active-directory-auth)
+[Tüm detaylar blog yazımda](https://omermertkaya.github.io/posts/ldap-authorization/)
